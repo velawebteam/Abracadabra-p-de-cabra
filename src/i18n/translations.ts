@@ -5,6 +5,7 @@ export const translations = {
       howItWorks: "How It Works",
       courses: "Courses",
       professionals: "Professionals",
+      partners: "Partners",
       pricing: "Pricing",
       contact: "Contact"
     },
